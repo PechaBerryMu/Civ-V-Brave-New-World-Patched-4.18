@@ -234,16 +234,17 @@
 	},
 	{
 		"name": "Cathedral",
+		"cost": 200,
 		"faith": 1,
 		"culture": 1,
 		"happiness": 1,
 		"uniques": [
 			"Unbuildable",
 			"Unsellable",
-			"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+		//	"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
 			"Only available <when religion is enabled>",
 			"Comment [Provides 1 [Great Work of Art] or [Artifact] Slot]",
-			"Only available <after adopting [Cathedrals]>", // https://civilization.fandom.com/wiki/Religion_(Civ5)#Follower_Beliefs
+		//	"Only available <after adopting [Cathedrals]>", // https://civilization.fandom.com/wiki/Religion_(Civ5)#Follower_Beliefs
 			"Provides [2] [Tourism] <after adopting [Sacred Sites]>",
 			"Destroyed when the city is captured"
 		],
@@ -281,6 +282,7 @@
 	},
 	{
 		"name": "Monastery",
+		"cost": 150,
 		"culture": 2,
 		"faith": 2,
 		"uniques": [
@@ -288,8 +290,8 @@
 			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
 			"Unbuildable",
 			"Unsellable",
-			"Can be purchased for [150] [Faith] [in all cities in which the majority religion is a major religion]",
-			"Only available <after adopting [Monasteries]>",
+		//	"Can be purchased for [150] [Faith] [in all cities in which the majority religion is a major religion]",
+		//	"Only available <after adopting [Monasteries]>",
 			"Only available <when religion is enabled>",
 			"Destroyed when the city is captured",
 			"Provides [2] [Tourism] <after adopting [Sacred Sites]>"
@@ -297,14 +299,15 @@
 	},
 	{
 		"name": "Mosque",
+		"cost": 200,
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
 		"uniques": [
 			"Unbuildable",
 			"Unsellable",
-			"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
-			"Only available <after adopting [Mosques]>",
+		//	"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+		//	"Only available <after adopting [Mosques]>",
 			"Only available <when religion is enabled>",
 			"Provides [2] [Tourism] <after adopting [Sacred Sites]>",
 			"Destroyed when the city is captured"
@@ -312,15 +315,16 @@
 	},
 	{
 		"name": "Pagoda",
+		"cost": 200,
 		"culture": 2,
 		"faith": 2,
 		"happiness": 2,
 		"uniques": [
 			"Unbuildable",
 			"Unsellable",
-			"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
+		//	"Can be purchased for [200] [Faith] [in all cities in which the majority religion is a major religion]",
 			"Only available <when religion is enabled>",
-			"Only available <after adopting [Pagodas]>",
+		//	"Only available <after adopting [Pagodas]>",
 			"Provides [2] [Tourism] <after adopting [Sacred Sites]>",
 			"Destroyed when the city is captured"
 		]
